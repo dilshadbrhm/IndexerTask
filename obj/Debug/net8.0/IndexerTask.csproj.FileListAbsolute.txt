@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\bin\Debug\net8.0\IndexerTask.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\bin\Debug\net8.0\IndexerTask.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\bin\Debug\net8.0\IndexerTask.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\bin\Debug\net8.0\IndexerTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\bin\Debug\net8.0\IndexerTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\obj\Debug\net8.0\IndexerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\obj\Debug\net8.0\IndexerTask.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\obj\Debug\net8.0\IndexerTask.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\obj\Debug\net8.0\IndexerTask.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\obj\Debug\net8.0\IndexerTask.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\obj\Debug\net8.0\IndexerTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\obj\Debug\net8.0\refint\IndexerTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\obj\Debug\net8.0\IndexerTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\obj\Debug\net8.0\IndexerTask.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\IndexerTask\obj\Debug\net8.0\ref\IndexerTask.dll
