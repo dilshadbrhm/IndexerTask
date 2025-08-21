@@ -6,24 +6,15 @@ namespace IndexerTask
     {
         static void Main(string[] args)
         {
-            ListInt list = new ListInt(1, 2, 3, 4, 5);
-            Console.WriteLine(list);
+            CustomList<int> numbers = new CustomList<int>();
+            numbers.Add(1);
+            numbers.AddRange(2, 3, 4);
+            Console.WriteLine(numbers); 
+            Console.WriteLine(numbers.Contains(2)); 
+            Console.WriteLine(numbers.Contains(5));
 
-            list.Add(6);
-            Console.WriteLine(list);
-
-            list.AddRange(7, 8, 9);
-            Console.WriteLine(list);
-
-            //Console.WriteLine(list.Contains(5));
-            //Console.WriteLine(list.Sum());
-
-            //list.Remove(3);
-            //Console.WriteLine(list); 
-
-            list.RemoveRange(1, 9, 7);
-            Console.WriteLine(list);
-
+            numbers.Remove(4);
+            Console.WriteLine(numbers); 
         }
     }
 }
